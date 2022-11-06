@@ -1,0 +1,114 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Alex Piotrowski</title>
+	<link>https://alexpiotrowski.xyz/tags/</link>
+	<description>Recent content in Tags on Alex Piotrowski</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Sun, 16 Oct 2022 14:33:29 +1100</lastBuildDate>
+    
+        <atom:link href="https://alexpiotrowski.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Favourite websites</title>
+		<link>https://alexpiotrowski.xyz/favouritewebsites/</link>
+		<pubDate>Mon, 17 Oct 2022 23:17:48 +1100</pubDate>
+		
+		<guid>https://alexpiotrowski.xyz/favouritewebsites/</guid>
+		<description>&lt;p&gt;A bunch of websites i like with some brief reasons.
+People:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://lukesmith.xyz/&#34;&gt;https://lukesmith.xyz/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stallman.org/&#34;&gt;https://stallman.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://linuxtorvalds.com/&#34;&gt;https://linuxtorvalds.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://brendanregg.com/&#34;&gt;https://brendanregg.com/&lt;/a&gt; : For some reason the link does not work. But if you google &amp;ldquo;brendanregg&amp;rdquo; he should be the first result.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Software:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blender.org/&#34;&gt;https://blender.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://godotengine.org/&#34;&gt;https://godotengine.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://love2d.org/&#34;&gt;https://love2d.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ceph.io/&#34;&gt;https://ceph.io/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.lunarvim.org/&#34;&gt;https://www.lunarvim.org/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>About</title>
+		<link>https://alexpiotrowski.xyz/about/</link>
+		<pubDate>Sun, 16 Oct 2022 14:33:29 +1100</pubDate>
+		
+		<guid>https://alexpiotrowski.xyz/about/</guid>
+		<description>&lt;p&gt;Hi my name is Alex and i currently work at &lt;a href=&#34;https://vaultcloud.com.au/&#34;&gt;vault cloud&lt;/a&gt; as a cloud Admin (Customer support)&lt;/p&gt;
+&lt;p&gt;I have graduated from UNSW Sydney with a degree in computer science. As proof, you can see my &lt;a href=&#34;https://alexpiotrowski.xyz/unsw_degree/testamur.pdf&#34;&gt;Testamur&lt;/a&gt;, &lt;a href=&#34;https://alexpiotrowski.xyz/unsw_degree/transcript.pdf&#34;&gt;Transcript&lt;/a&gt; and &lt;a href=&#34;https://alexpiotrowski.xyz/unsw_degree/AHEGS.pdf&#34;&gt;AHEGS&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;test: &lt;a href=&#34;https://alexpiotrowski.xyz/animations/titanfall_walk_cycle.mp4&#34;&gt;test&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Things i want to learn (In no particular order):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;li&gt;MongoDB&lt;/li&gt;
+&lt;li&gt;Terraform&lt;/li&gt;
+&lt;li&gt;SQL&lt;/li&gt;
+&lt;li&gt;Kubernetes&lt;/li&gt;
+&lt;li&gt;OpenShift&lt;/li&gt;
+&lt;li&gt;Ansible&lt;/li&gt;
+&lt;li&gt;Ceph&lt;/li&gt;
+&lt;li&gt;OpenStack&lt;/li&gt;
+&lt;li&gt;Networking&lt;/li&gt;
+&lt;li&gt;NFTables on linux machines&lt;/li&gt;
+&lt;li&gt;IPsec and SSL VPNs&lt;/li&gt;
+&lt;li&gt;Fortigates - Maybe a few fortinet certificates&lt;/li&gt;
+&lt;li&gt;ARP&lt;/li&gt;
+&lt;li&gt;VXLAN&lt;/li&gt;
+&lt;li&gt;LDAP and OpenLDAP&lt;/li&gt;
+&lt;li&gt;CCNP&lt;/li&gt;
+&lt;li&gt;Redhat Certificate RHSCA&lt;/li&gt;
+&lt;li&gt;Maybe a few AWS and Azure certificates&lt;/li&gt;
+&lt;li&gt;AutoFS and NFS&lt;/li&gt;
+&lt;li&gt;How Email works&lt;/li&gt;
+&lt;li&gt;CheckMK&lt;/li&gt;
+&lt;li&gt;Mattermost deployment&lt;/li&gt;
+&lt;li&gt;Nextcloud deployment&lt;/li&gt;
+&lt;li&gt;Svelte and Sveltekit - Frontent development&lt;/li&gt;
+&lt;li&gt;Cable management&lt;/li&gt;
+&lt;li&gt;Hugo : To build this website, i would like to add a navbar and make it look like max zhang&amp;rsquo;s website.&lt;/li&gt;
+&lt;li&gt;Next.js&lt;/li&gt;
+&lt;li&gt;React&lt;/li&gt;
+&lt;li&gt;Reveal.js&lt;/li&gt;
+&lt;li&gt;Lock Picking&lt;/li&gt;
+&lt;li&gt;How Monero and Bitcoin works&lt;/li&gt;
+&lt;li&gt;Piano and guitar&lt;/li&gt;
+&lt;li&gt;Unity Engine&lt;/li&gt;
+&lt;li&gt;Unreal engine&lt;/li&gt;
+&lt;li&gt;Godot&lt;/li&gt;
+&lt;li&gt;Love2d&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Games i like&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bug bumble - N64&lt;/li&gt;
+&lt;li&gt;Ratchet and Clank (PS2 - PS3)&lt;/li&gt;
+&lt;li&gt;Halo 3 (xbox 360)&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t Escape&lt;/li&gt;
+&lt;li&gt;Epic Battle Fantasy&lt;/li&gt;
+&lt;li&gt;HellTaker&lt;/li&gt;
+&lt;li&gt;God of war (PC)&lt;/li&gt;
+&lt;li&gt;Metro Exodus&lt;/li&gt;
+&lt;li&gt;Outer Wilds&lt;/li&gt;
+&lt;li&gt;The Witcher 3: Wild Hunt (PC)&lt;/li&gt;
+&lt;li&gt;Team Fortress 2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Film i like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Avatar, the last airbender&lt;/li&gt;
+&lt;li&gt;Spiderverse&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Interesting fact about me: Apparently, when i was really young, i used to watch &amp;ldquo;free willy&amp;rdquo; on repeat continuously. I could not talk at this age but i knew how to work the VHS machine.&lt;/p&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>
