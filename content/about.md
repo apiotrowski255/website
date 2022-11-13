@@ -13,6 +13,8 @@ test: [test](/animations/titanfall_walk_cycle.mp4)
 <!--- {{< youtube 1D4YHBu9ASo>}}
 -->
 
+considering switching to debian: https://manjarno.snorlax.sh/
+
 Things i want to learn (In no particular order):
 - Docker
 - MongoDB
