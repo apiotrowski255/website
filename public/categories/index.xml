@@ -18,18 +18,24 @@
 		<description>&lt;p&gt;A bunch of websites i like with some brief reasons.
 People:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lukesmith.xyz/&#34;&gt;https://lukesmith.xyz/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://stallman.org/&#34;&gt;https://stallman.org/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://linuxtorvalds.com/&#34;&gt;https://linuxtorvalds.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lukesmith.xyz/&#34;&gt;https://lukesmith.xyz/&lt;/a&gt; : Luke is the main reason why i have my own website and moving to Hugo (using Lugo)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stallman.org/&#34;&gt;https://stallman.org/&lt;/a&gt; : The creator of GNU&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://linuxtorvalds.com/&#34;&gt;https://linuxtorvalds.com/&lt;/a&gt; : The creator of Linux&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://brendanregg.com/&#34;&gt;https://brendanregg.com/&lt;/a&gt; : For some reason the link does not work. But if you google &amp;ldquo;brendanregg&amp;rdquo; he should be the first result.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://maxzhang.net/&#34;&gt;https://maxzhang.net/&lt;/a&gt; : a get inspiration for me and i love his 3D Art&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Software:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://blender.org/&#34;&gt;https://blender.org/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://godotengine.org/&#34;&gt;https://godotengine.org/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://love2d.org/&#34;&gt;https://love2d.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lua.org/&#34;&gt;https://lua.org/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ceph.io/&#34;&gt;https://ceph.io/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.lunarvim.org/&#34;&gt;https://www.lunarvim.org/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;open source books&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://easypeasymethod.org/&#34;&gt;https://easypeasymethod.org/&lt;/a&gt; : I would not say i am out of the woods yet with my pornography addiction, but it has made me realize the biggest stopper is fear.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 	</item>
@@ -45,6 +51,7 @@ People:&lt;/p&gt;
 &lt;p&gt;test: &lt;a href=&#34;https://alexpiotrowski.xyz/animations/titanfall_walk_cycle.mp4&#34;&gt;test&lt;/a&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;considering switching to debian: &lt;a href=&#34;https://manjarno.snorlax.sh/&#34;&gt;https://manjarno.snorlax.sh/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Things i want to learn (In no particular order):&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Docker&lt;/li&gt;

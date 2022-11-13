@@ -8,12 +8,14 @@ Hi my name is Alex and i currently work at [vault cloud](https://vaultcloud.com.
 
 I have graduated from UNSW Sydney with a degree in computer science. As proof, you can see my [Testamur](/unsw_degree/testamur.pdf), [Transcript](/unsw_degree/transcript.pdf) and [AHEGS](/unsw_degree/AHEGS.pdf).
 
+I am considering continuing my studies at AIE and specialise in Game Programming. 
+
 test: [test](/animations/titanfall_walk_cycle.mp4)
 
 <!--- {{< youtube 1D4YHBu9ASo>}}
 -->
 
-considering switching to debian: https://manjarno.snorlax.sh/
+I am currently running on Manjaro Distro but i am considering switching to debian: https://manjarno.snorlax.sh/
 
 Things i want to learn (In no particular order):
 - Docker
@@ -61,8 +63,8 @@ Games i like
 - Halo 3 (xbox 360)
 - Don't Escape
 - Epic Battle Fantasy
-- HellTaker
-- God of war (PC)
+- HellTaker - PC (Steam) - Free
+- God of war - PC (Steam) - Paid
 - Metro Exodus
 - Outer Wilds
 - The Witcher 3: Wild Hunt (PC)
@@ -70,7 +72,9 @@ Games i like
 
 Film i like:
 - Avatar, the last airbender
-- Spiderverse
-- 
+- Spider-Man: Into the Spider-Verse
+- The Lego Movie
+- American Psycho : This film has so many community edits and remixes. 
+- Blade runner 2049
 
 Interesting fact about me: Apparently, when i was really young, i used to watch "free willy" on repeat continuously. I could not talk at this age but i knew how to work the VHS machine. 
