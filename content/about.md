@@ -16,6 +16,7 @@ test: [test](/animations/titanfall_walk_cycle.mp4)
 -->
 
 I am currently running on Manjaro Distro but i am considering switching to debian: https://manjarno.snorlax.sh/
+Sure debian might be slower with the updates but it is stable as hell.
 
 Things i want to learn (In no particular order):
 - Docker
