@@ -19,6 +19,15 @@ Software:
 - https://ceph.io/
 - https://www.lunarvim.org/
 
+Open source:
+- https://www.fsf.org/
 
 open source books
 - https://easypeasymethod.org/ : I would not say i am out of the woods yet with my pornography addiction, but it has made me realize the biggest stopper is fear.
+Furthermore, this was my first time coming across a free and open source book! Its so much more than making money, Its about changing people's lives. 
+
+Wikis:
+- https://wiki.installgentoo.com/
+- https://without-systemd.org/
+- https://wiki.osdev.org/
+- https://wiki.archlinux.org/
