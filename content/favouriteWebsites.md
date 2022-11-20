@@ -25,6 +25,12 @@ Open source:
 open source books
 - https://easypeasymethod.org/ : I would not say i am out of the woods yet with my pornography addiction, but it has made me realize the biggest stopper is fear.
 Furthermore, this was my first time coming across a free and open source book! Its so much more than making money, Its about changing people's lives. 
+- Need to add Zlibrary here - Somehow need to find the Onion link.
+
+
+blender specific:
+- https://blender.org/ - again
+- https://open3dlab.com/ - 
 
 Wikis:
 - https://wiki.installgentoo.com/

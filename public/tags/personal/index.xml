@@ -11,6 +11,25 @@
 	
 	
 	<item>
+		<title>Games</title>
+		<link>https://alexpiotrowski.xyz/games/</link>
+		<pubDate>Tue, 15 Nov 2022 20:44:39 +1100</pubDate>
+		
+		<guid>https://alexpiotrowski.xyz/games/</guid>
+		<description>&lt;p&gt;Games i have made&lt;/p&gt;
+&lt;p&gt;Spongeswap&lt;/p&gt;
+&lt;p&gt;I am really proud of this one because this is a game that i created without following a tutorial or youtube series. I did this on my own and using free online resources to do so.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Used OpenGL and OpenAL&lt;/li&gt;
+&lt;li&gt;This game was also finished when i left Macquarie cloud services&lt;/li&gt;
+&lt;li&gt;This game was the birth of the following two tutorials: ThinMatrix and Cross Coast Gaming&lt;/li&gt;
+&lt;li&gt;Github link: &lt;a href=&#34;https://github.com/apiotrowski255/SpongeSwap&#34;&gt;https://github.com/apiotrowski255/SpongeSwap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Youtube gameplay:https://www.youtube.com/watch?v=GOVHGc2zwcM&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	<item>
 		<title>Animations</title>
 		<link>https://alexpiotrowski.xyz/animations/</link>
 		<pubDate>Mon, 14 Nov 2022 22:56:47 +1100</pubDate>
@@ -76,9 +95,21 @@ People:&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;https://ceph.io/&#34;&gt;https://ceph.io/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.lunarvim.org/&#34;&gt;https://www.lunarvim.org/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Open source:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fsf.org/&#34;&gt;https://www.fsf.org/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;open source books&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://easypeasymethod.org/&#34;&gt;https://easypeasymethod.org/&lt;/a&gt; : I would not say i am out of the woods yet with my pornography addiction, but it has made me realize the biggest stopper is fear.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://easypeasymethod.org/&#34;&gt;https://easypeasymethod.org/&lt;/a&gt; : I would not say i am out of the woods yet with my pornography addiction, but it has made me realize the biggest stopper is fear.
+Furthermore, this was my first time coming across a free and open source book! Its so much more than making money, Its about changing people&amp;rsquo;s lives.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Wikis:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.installgentoo.com/&#34;&gt;https://wiki.installgentoo.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://without-systemd.org/&#34;&gt;https://without-systemd.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.osdev.org/&#34;&gt;https://wiki.osdev.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.archlinux.org/&#34;&gt;https://wiki.archlinux.org/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 	</item>
@@ -95,7 +126,8 @@ People:&lt;/p&gt;
 &lt;p&gt;test: &lt;a href=&#34;https://alexpiotrowski.xyz/animations/titanfall_walk_cycle.mp4&#34;&gt;test&lt;/a&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;I am currently running on Manjaro Distro but i am considering switching to debian: &lt;a href=&#34;https://manjarno.snorlax.sh/&#34;&gt;https://manjarno.snorlax.sh/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I am currently running on Manjaro Distro but i am considering switching to debian: &lt;a href=&#34;https://manjarno.snorlax.sh/&#34;&gt;https://manjarno.snorlax.sh/&lt;/a&gt;
+Sure debian might be slower with the updates but it is stable as hell.&lt;/p&gt;
 &lt;p&gt;Things i want to learn (In no particular order):&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Docker&lt;/li&gt;
