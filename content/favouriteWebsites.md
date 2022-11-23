@@ -30,10 +30,16 @@ Furthermore, this was my first time coming across a free and open source book! I
 
 blender specific:
 - https://blender.org/ - again
-- https://open3dlab.com/ - 
+- https://open3dlab.com/ - A great resource for 3d models, environments and HDRIs. All Free. 
+- https://smutba.se/ - The same as openedlab, except all NSFW
+- https://www.blendswap.com/
 
 Wikis:
 - https://wiki.installgentoo.com/
 - https://without-systemd.org/
 - https://wiki.osdev.org/
 - https://wiki.archlinux.org/
+
+Musicians:
+- https://www.daveeddy.com/ 
+- https://www.waterflame.com./ - This guy made pretty much all music for flash games (My childhood).
