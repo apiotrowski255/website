@@ -1,7 +1,6 @@
 ---
 title: "Games"
 date: 2022-11-15T20:44:39+11:00
-draft: false 
 ---
 Games i have made
 

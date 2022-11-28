@@ -1,242 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-	<title>Alex Piotrowski</title>
-	<link>https://alexpiotrowski.xyz/</link>
-	<description>Recent content on Alex Piotrowski</description>
-	<generator>Hugo -- gohugo.io</generator>
-	<language>en-us</language>
-	<lastBuildDate>Sun, 16 Oct 2022 14:33:29 +1100</lastBuildDate>
+    <title>Alex Piotrowski</title>
+    <link>https://alexpiotrowski.xyz/</link>
+    <description>Recent content on Alex Piotrowski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Oct 2022 14:33:29 +1100</lastBuildDate><atom:link href="https://alexpiotrowski.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Games</title>
+      <link>https://alexpiotrowski.xyz/games/</link>
+      <pubDate>Tue, 15 Nov 2022 20:44:39 +1100</pubDate>
+      
+      <guid>https://alexpiotrowski.xyz/games/</guid>
+      <description>Games i have made
+Spongeswap
+I am really proud of this one because this is a game that i created without following a tutorial or youtube series. I did this on my own and using free online resources to do so.
+Used OpenGL and OpenAL This game was also finished when i left Macquarie cloud services This game was the birth of the following two tutorials: ThinMatrix and Cross Coast Gaming Github link: https://github.</description>
+    </item>
     
-        <atom:link href="https://alexpiotrowski.xyz/index.xml" rel="self" type="application/rss+xml" />
-	
-	
-	<item>
-		<title>Games</title>
-		<link>https://alexpiotrowski.xyz/games/</link>
-		<pubDate>Tue, 15 Nov 2022 20:44:39 +1100</pubDate>
-		
-		<guid>https://alexpiotrowski.xyz/games/</guid>
-		<description>&lt;p&gt;Games i have made&lt;/p&gt;
-&lt;p&gt;Spongeswap&lt;/p&gt;
-&lt;p&gt;I am really proud of this one because this is a game that i created without following a tutorial or youtube series. I did this on my own and using free online resources to do so.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Used OpenGL and OpenAL&lt;/li&gt;
-&lt;li&gt;This game was also finished when i left Macquarie cloud services&lt;/li&gt;
-&lt;li&gt;This game was the birth of the following two tutorials: ThinMatrix and Cross Coast Gaming&lt;/li&gt;
-&lt;li&gt;Github link: &lt;a href=&#34;https://github.com/apiotrowski255/SpongeSwap&#34;&gt;https://github.com/apiotrowski255/SpongeSwap&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Youtube gameplay:https://www.youtube.com/watch?v=GOVHGc2zwcM&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-	</item>
-	
-	<item>
-		<title>Animations</title>
-		<link>https://alexpiotrowski.xyz/animations/</link>
-		<pubDate>Mon, 14 Nov 2022 22:56:47 +1100</pubDate>
-		
-		<guid>https://alexpiotrowski.xyz/animations/</guid>
-		<description>&lt;p&gt;A bunch of animations i have created.&lt;/p&gt;
-&lt;p&gt;Software used:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Pivot&lt;/li&gt;
-&lt;li&gt;Adobe Animate&lt;/li&gt;
-&lt;li&gt;Blender&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Walk the walk&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A animation for DART1211. This is were i met a good friend &amp;ldquo;Suckerfish&amp;rdquo;. As soon as she mentions Hyun dojo in class, I knew we good pals.&lt;/li&gt;
-&lt;li&gt;Apparently i did this in a week? I finished off assignment 1 and handed it in early.&lt;/li&gt;
-&lt;li&gt;I can&amp;rsquo;t provide all the animation files for this one because it was broken up to 5 parts and then combined together in Adobe premiere pro.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Slush invaders tribute
-I think with this animation i got a little impatient. I remember i just finished my two year contract with Macquarie cloud services and i was incrediblity burnt out from work.
-When i left MCS, i had a goal to finish this animation off. It took longer than expected and i did not want to develop the habit of starting projects and not finishing them.
-Gildedguy has seen it and he loved it: Link to his reaction.
-Adobe animate file:
-Video can be see here:&lt;/p&gt;
-&lt;p&gt;Animation vs You (The Viewer)
-A fan animation copying the formula of Animation vs Animator by Alan becker.
-I was happy to have shared this with Alan becker - He replied and shared the animation on his facebook page.
-I believe the video went viral because soon after Alan released his next video in the series &amp;ldquo;Animation vs YouTube&amp;rdquo;.
-Video can be see here: TODO
-Adobe file can be downloaded here: TODO&lt;/p&gt;
-&lt;p&gt;Epic StickFigure Battle - Oct 26 2016
-Originally this one was going to be named &amp;ldquo;AwesomeA vs Saminator&amp;rdquo; or &amp;ldquo;AA vs Saminator&amp;rdquo;. I had a good friend Samitha Balasuriya who i went to high school with.
-I thought it would be cool to work on an animation featuring myself and him battling.
-I think another part of it was the music. I remember listening to the music and thinking &amp;ldquo;Wow this is cool&amp;rdquo;. I Imagined an epic battle with this music and i guess i brought it to life.
-According to my notes - This was done in 3 months
-I look back at it now with slight cringe but great fondest.
-Youtube link: &lt;a href=&#34;https://www.youtube.com/watch?v=lXT0qa_SGlA&#34;&gt;https://www.youtube.com/watch?v=lXT0qa_SGlA&lt;/a&gt;
-Adobe animate files:&lt;/p&gt;
-</description>
-	</item>
-	
-	<item>
-		<title>Favourite websites</title>
-		<link>https://alexpiotrowski.xyz/favouritewebsites/</link>
-		<pubDate>Mon, 17 Oct 2022 23:17:48 +1100</pubDate>
-		
-		<guid>https://alexpiotrowski.xyz/favouritewebsites/</guid>
-		<description>&lt;p&gt;A bunch of websites i like with some brief reasons.
-People:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lukesmith.xyz/&#34;&gt;https://lukesmith.xyz/&lt;/a&gt; : Luke is the main reason why i have my own website and moving to Hugo (using Lugo)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://stallman.org/&#34;&gt;https://stallman.org/&lt;/a&gt; : The creator of GNU&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://linuxtorvalds.com/&#34;&gt;https://linuxtorvalds.com/&lt;/a&gt; : The creator of Linux&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://brendanregg.com/&#34;&gt;https://brendanregg.com/&lt;/a&gt; : For some reason the link does not work. But if you google &amp;ldquo;brendanregg&amp;rdquo; he should be the first result.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://maxzhang.net/&#34;&gt;https://maxzhang.net/&lt;/a&gt; : a get inspiration for me and i love his 3D Art&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Software:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://blender.org/&#34;&gt;https://blender.org/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://godotengine.org/&#34;&gt;https://godotengine.org/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://love2d.org/&#34;&gt;https://love2d.org/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://lua.org/&#34;&gt;https://lua.org/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ceph.io/&#34;&gt;https://ceph.io/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.lunarvim.org/&#34;&gt;https://www.lunarvim.org/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Open source:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.fsf.org/&#34;&gt;https://www.fsf.org/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;open source books&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://easypeasymethod.org/&#34;&gt;https://easypeasymethod.org/&lt;/a&gt; : I would not say i am out of the woods yet with my pornography addiction, but it has made me realize the biggest stopper is fear.
-Furthermore, this was my first time coming across a free and open source book! Its so much more than making money, Its about changing people&amp;rsquo;s lives.&lt;/li&gt;
-&lt;li&gt;Need to add Zlibrary here - Somehow need to find the Onion link.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;blender specific:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://blender.org/&#34;&gt;https://blender.org/&lt;/a&gt; - again&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://open3dlab.com/&#34;&gt;https://open3dlab.com/&lt;/a&gt; - A great resource for 3d models, environments and HDRIs. All Free.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://smutba.se/&#34;&gt;https://smutba.se/&lt;/a&gt; - The same as openedlab, except all NSFW&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.blendswap.com/&#34;&gt;https://www.blendswap.com/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Wikis:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://wiki.installgentoo.com/&#34;&gt;https://wiki.installgentoo.com/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://without-systemd.org/&#34;&gt;https://without-systemd.org/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://wiki.osdev.org/&#34;&gt;https://wiki.osdev.org/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://wiki.archlinux.org/&#34;&gt;https://wiki.archlinux.org/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Musicians:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.daveeddy.com/&#34;&gt;https://www.daveeddy.com/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.waterflame.com&#34;&gt;https://www.waterflame.com&lt;/a&gt;./ - This guy made pretty much all music for flash games (My childhood).&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-	</item>
-	
-	<item>
-		<title>About</title>
-		<link>https://alexpiotrowski.xyz/about/</link>
-		<pubDate>Sun, 16 Oct 2022 14:33:29 +1100</pubDate>
-		
-		<guid>https://alexpiotrowski.xyz/about/</guid>
-		<description>&lt;p&gt;Hi my name is Alex and i currently work at &lt;a href=&#34;https://vaultcloud.com.au/&#34;&gt;vault cloud&lt;/a&gt; as a cloud Admin (Customer support)&lt;/p&gt;
-&lt;p&gt;I have graduated from UNSW Sydney with a degree in computer science. As proof, you can see my &lt;a href=&#34;https://alexpiotrowski.xyz/unsw_degree/testamur.pdf&#34;&gt;Testamur&lt;/a&gt;, &lt;a href=&#34;https://alexpiotrowski.xyz/unsw_degree/transcript.pdf&#34;&gt;Transcript&lt;/a&gt; and &lt;a href=&#34;https://alexpiotrowski.xyz/unsw_degree/AHEGS.pdf&#34;&gt;AHEGS&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I am considering continuing my studies at AIE and specialise in Game Programming.&lt;/p&gt;
-&lt;p&gt;test: &lt;a href=&#34;https://alexpiotrowski.xyz/animations/titanfall_walk_cycle.mp4&#34;&gt;test&lt;/a&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;I am currently running on Manjaro Distro but i am considering switching to debian: &lt;a href=&#34;https://manjarno.snorlax.sh/&#34;&gt;https://manjarno.snorlax.sh/&lt;/a&gt;
-Sure debian might be slower with the updates but it is stable as hell.&lt;/p&gt;
-&lt;p&gt;Things i want to learn (In no particular order):&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Docker&lt;/li&gt;
-&lt;li&gt;MongoDB&lt;/li&gt;
-&lt;li&gt;Terraform&lt;/li&gt;
-&lt;li&gt;SQL&lt;/li&gt;
-&lt;li&gt;Kubernetes&lt;/li&gt;
-&lt;li&gt;OpenShift&lt;/li&gt;
-&lt;li&gt;Ansible&lt;/li&gt;
-&lt;li&gt;Ceph&lt;/li&gt;
-&lt;li&gt;OpenStack&lt;/li&gt;
-&lt;li&gt;Networking&lt;/li&gt;
-&lt;li&gt;NFTables on linux machines&lt;/li&gt;
-&lt;li&gt;IPsec and SSL VPNs&lt;/li&gt;
-&lt;li&gt;Fortigates - Maybe a few fortinet certificates&lt;/li&gt;
-&lt;li&gt;ARP&lt;/li&gt;
-&lt;li&gt;VXLAN&lt;/li&gt;
-&lt;li&gt;LDAP and OpenLDAP&lt;/li&gt;
-&lt;li&gt;CCNP&lt;/li&gt;
-&lt;li&gt;Redhat Certificate RHSCA&lt;/li&gt;
-&lt;li&gt;Maybe a few AWS and Azure certificates&lt;/li&gt;
-&lt;li&gt;AutoFS and NFS&lt;/li&gt;
-&lt;li&gt;How Email works&lt;/li&gt;
-&lt;li&gt;CheckMK&lt;/li&gt;
-&lt;li&gt;Mattermost deployment&lt;/li&gt;
-&lt;li&gt;Nextcloud deployment&lt;/li&gt;
-&lt;li&gt;Svelte and Sveltekit - Frontent development&lt;/li&gt;
-&lt;li&gt;Cable management&lt;/li&gt;
-&lt;li&gt;Hugo : To build this website, i would like to add a navbar and make it look like max zhang&amp;rsquo;s website.&lt;/li&gt;
-&lt;li&gt;Next.js&lt;/li&gt;
-&lt;li&gt;React&lt;/li&gt;
-&lt;li&gt;Reveal.js&lt;/li&gt;
-&lt;li&gt;Lock Picking&lt;/li&gt;
-&lt;li&gt;How Monero and Bitcoin works&lt;/li&gt;
-&lt;li&gt;Piano and guitar&lt;/li&gt;
-&lt;li&gt;Unity Engine&lt;/li&gt;
-&lt;li&gt;Unreal engine&lt;/li&gt;
-&lt;li&gt;Godot&lt;/li&gt;
-&lt;li&gt;Love2d&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Games i like&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Bug bumble - N64&lt;/li&gt;
-&lt;li&gt;Ratchet and Clank (PS2 - PS3)&lt;/li&gt;
-&lt;li&gt;Halo 3 (xbox 360)&lt;/li&gt;
-&lt;li&gt;Don&amp;rsquo;t Escape&lt;/li&gt;
-&lt;li&gt;Epic Battle Fantasy&lt;/li&gt;
-&lt;li&gt;HellTaker - PC (Steam) - Free&lt;/li&gt;
-&lt;li&gt;God of war - PC (Steam) - Paid&lt;/li&gt;
-&lt;li&gt;Metro Exodus&lt;/li&gt;
-&lt;li&gt;Outer Wilds&lt;/li&gt;
-&lt;li&gt;The Witcher 3: Wild Hunt - PC (Steam) - Paid&lt;/li&gt;
-&lt;li&gt;Team Fortress 2 - PC (Steam) - Free&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Film i like:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Avatar, the last airbender&lt;/li&gt;
-&lt;li&gt;Spider-Man: Into the Spider-Verse&lt;/li&gt;
-&lt;li&gt;The Lego Movie&lt;/li&gt;
-&lt;li&gt;American Psycho : This film has so many community edits and remixes.&lt;/li&gt;
-&lt;li&gt;Blade runner 2049&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Music i like:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Anything Touhou. Zun is a great composer&lt;/li&gt;
-&lt;li&gt;Touhou - The Positive and Negative [ZUN-like Remix] : &lt;a href=&#34;https://www.youtube.com/watch?v=JqRu1TfncE4&#34;&gt;https://www.youtube.com/watch?v=JqRu1TfncE4&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;I imagine this one to be a boss theme - something like a news anchor or pop star (Is this similar to metton from Undertale?)&lt;/li&gt;
-&lt;li&gt;C418 - Aria Math&lt;/li&gt;
-&lt;li&gt;I also like Phonk&lt;/li&gt;
-&lt;li&gt;If i have used the music in an animation - I have to like it. When animating you constantly hear the same music again and again.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Interesting fact about me: Apparently, when i was really young, i used to watch &amp;ldquo;free willy&amp;rdquo; on repeat continuously. I could not talk at this age but i knew how to work the VHS machine.
-Also according to my parents, I could not talk until at the age of four. But hey, I Einstein was a late talker too: &lt;a href=&#34;https://profound-answers.com/did-einstein-really-not-talk-until-he-was-4/&#34;&gt;https://profound-answers.com/did-einstein-really-not-talk-until-he-was-4/&lt;/a&gt;
-More on late talkers: &lt;a href=&#34;https://en.wikipedia.org/wiki/Late_talker&#34;&gt;https://en.wikipedia.org/wiki/Late_talker&lt;/a&gt;
-My Mum tells me how worried she was when i was young and not talking. She took me to every Specialist she could see. They did a bunch of tests on me - Made sure i was not deaf.
-I think they went on to find nothing. No explanation. I think there were fears that i was Autistic or had a Disability. I am glad to announce that i turned out fine. I am very happy for myself and my family.&lt;/p&gt;
-&lt;p&gt;I wonder if i should do a &amp;ldquo;character stats&amp;rdquo; page for myself?&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Body (Strength)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Reflexes&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Technical Ability (Which in today&amp;rsquo;s world is the same as Intelligence?)&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;h1[Cool]&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Current Youtube following: 10K&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://socialblade.com/youtube/c/alexpiotrowski/realtime&#34;&gt;https://socialblade.com/youtube/c/alexpiotrowski/realtime&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(Not that it really matters to be honest)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-	</item>
-	
-	</channel>
+    <item>
+      <title>Animations</title>
+      <link>https://alexpiotrowski.xyz/animations/</link>
+      <pubDate>Mon, 14 Nov 2022 22:56:47 +1100</pubDate>
+      
+      <guid>https://alexpiotrowski.xyz/animations/</guid>
+      <description>A bunch of animations i have created.
+Software used:
+Pivot Adobe Animate Blender Walk the walk
+A animation for DART1211. This is were i met a good friend &amp;ldquo;Suckerfish&amp;rdquo;. As soon as she mentions Hyun dojo in class, I knew we good pals. Apparently i did this in a week? I finished off assignment 1 and handed it in early. I can&amp;rsquo;t provide all the animation files for this one because it was broken up to 5 parts and then combined together in Adobe premiere pro.</description>
+    </item>
+    
+    <item>
+      <title>Favourite websites</title>
+      <link>https://alexpiotrowski.xyz/favouritewebsites/</link>
+      <pubDate>Mon, 17 Oct 2022 23:17:48 +1100</pubDate>
+      
+      <guid>https://alexpiotrowski.xyz/favouritewebsites/</guid>
+      <description>A bunch of websites i like with some brief reasons. People:
+https://lukesmith.xyz/ : Luke is the main reason why i have my own website and moving to Hugo (using Lugo) https://stallman.org/ : The creator of GNU https://linuxtorvalds.com/ : The creator of Linux https://brendanregg.com/ : For some reason the link does not work. But if you google &amp;ldquo;brendanregg&amp;rdquo; he should be the first result. https://maxzhang.net/ : a get inspiration for me and i love his 3D Art Software:</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://alexpiotrowski.xyz/about/</link>
+      <pubDate>Sun, 16 Oct 2022 14:33:29 +1100</pubDate>
+      
+      <guid>https://alexpiotrowski.xyz/about/</guid>
+      <description>Hi my name is Alex and i currently work at vault cloud as a cloud Admin (Customer support)
+I have graduated from UNSW Sydney with a degree in computer science. As proof, you can see my Testamur, Transcript and AHEGS.
+I am considering continuing my studies at AIE and specialise in Game Programming.
+test: test
+I am currently running on Manjaro Distro but i am considering switching to debian: https://manjarno.snorlax.sh/ Sure debian might be slower with the updates but it is stable as hell.</description>
+    </item>
+    
+  </channel>
 </rss>
