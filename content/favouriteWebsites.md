@@ -3,13 +3,14 @@ title: "Favourite websites"
 date: 2022-10-17T23:17:48+11:00
 ---
 A bunch of websites i like with some brief reasons.
-People: 
+
+**People**: 
 - https://lukesmith.xyz/ : Luke is the main reason why i have my own website and moving to Hugo (using Lugo)
 - https://stallman.org/ : The creator of GNU
 - https://linuxtorvalds.com/ : The creator of Linux 
 - https://brendanregg.com/ : For some reason the link does not work. But if you google "brendanregg" he should be the first result.
 - https://maxzhang.net/ : a get inspiration for me and i love his 3D Art
-
+- https://ncase.me/ - Love the idea of explorable explanations and all the other projects.
 
 Software:
 - https://blender.org/ 

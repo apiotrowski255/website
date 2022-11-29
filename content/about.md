@@ -6,9 +6,12 @@ tags: ['personal']
 
 Hi my name is Alex and i currently work at [vault cloud](https://vaultcloud.com.au/) as a cloud Admin (Customer support)
 
-I have graduated from UNSW Sydney with a degree in computer science. As proof, you can see my [Testamur](/unsw_degree/testamur.pdf), [Transcript](/unsw_degree/transcript.pdf) and [AHEGS](/unsw_degree/AHEGS.pdf).
+I have graduated from UNSW Sydney with a degree in computer science. 
+As proof, you can see my [Testamur](/unsw_degree/testamur.pdf), [Transcript](/unsw_degree/transcript.pdf) and [AHEGS](/unsw_degree/AHEGS.pdf).
 
-I am considering continuing my studies at AIE and specialise in Game Programming. 
+I am considering continuing my studies at AIE and specialise in Game Programming.
+For the longest time, i could always envision myself working as a game programmer.
+Right now i do this as a hobby - Self enrolled courses.
 
 test: [test](/animations/titanfall_walk_cycle.mp4)
 
@@ -17,6 +20,7 @@ test: [test](/animations/titanfall_walk_cycle.mp4)
 
 I am currently running on Manjaro Distro but i am considering switching to debian: https://manjarno.snorlax.sh/
 Sure debian might be slower with the updates but it is stable as hell.
+The other two options for me would be Arch or Artix (Basically Arch without systemd).
 
 Things i want to learn (In no particular order):
 - Docker
@@ -49,6 +53,7 @@ Things i want to learn (In no particular order):
 - Next.js
 - React
 - Reveal.js
+- Wiki.js
 - Lock Picking
 - How Monero and Bitcoin works
 - Piano and guitar
@@ -60,7 +65,9 @@ Things i want to learn (In no particular order):
 
 Games i like
 - Bug bumble - N64
+- Mario Kart - N64
 - Ratchet and Clank (PS2 - PS3)
+- Assassin's creed (1,2,3 - original series)
 - Halo 3 (xbox 360)
 - Don't Escape
 - Epic Battle Fantasy
