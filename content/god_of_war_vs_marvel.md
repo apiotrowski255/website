@@ -1,5 +1,5 @@
 ---
-title: "God_of_war_vs_marvel"
+title: "God of war vs marvel"
 date: 2022-11-28T11:12:05+11:00
 draft: false 
 ---
