@@ -13,8 +13,9 @@ I am considering continuing my studies at AIE and specialise in Game Programming
 For the longest time, i could always envision myself working as a game programmer.
 Right now i do this as a hobby - Self enrolled courses.
 
+<!---
 test: [test](/animations/titanfall_walk_cycle.mp4)
-
+-->
 <!--- {{< youtube 1D4YHBu9ASo>}}
 -->
 

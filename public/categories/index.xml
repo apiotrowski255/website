@@ -10,6 +10,16 @@
 	
 	
 	<item>
+		<title>Fortigate_script</title>
+		<link>https://alexpiotrowski.xyz/fortigate_script/</link>
+		<pubDate>Wed, 14 Dec 2022 15:10:51 +1100</pubDate>
+		
+		<guid>https://alexpiotrowski.xyz/fortigate_script/</guid>
+		<description>&lt;p&gt;test&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
 		<title>God of war vs marvel</title>
 		<link>https://alexpiotrowski.xyz/god_of_war_vs_marvel/</link>
 		<pubDate>Mon, 28 Nov 2022 11:12:05 +1100</pubDate>
@@ -32,6 +42,50 @@ He runs towards his target.&lt;/p&gt;
 &lt;p&gt;The action never stops with god of war. Santa monica have somehow turned krato&amp;rsquo;s running along with his running grunts entertaining.&lt;/p&gt;
 &lt;p&gt;Meanwhile - Captain America finds a bike (I don&amp;rsquo;t know how) and flees the area.&lt;/p&gt;
 &lt;p&gt;God of war&amp;rsquo;s One camera shot through out the entire game is very technically impressive and a marvel to look to.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Introduction to Hacking</title>
+		<link>https://alexpiotrowski.xyz/introduction-to-hacking/</link>
+		<pubDate>Wed, 23 Nov 2022 16:06:42 +1100</pubDate>
+		
+		<guid>https://alexpiotrowski.xyz/introduction-to-hacking/</guid>
+		<description>&lt;p&gt;Hello!&lt;/p&gt;
+&lt;p&gt;This is intended as a Christmas Gift to Jad. However i see no reason as to why it should not be public. At the end of the day, It is just my own ramblings.
+However i do think i am qualified to offer some sound advice on the topic of security. After all, i have been working in IT.&lt;/p&gt;
+&lt;p&gt;You need to understand that this field will be a life long of learning. You will have to grow/expand your technical toolkit to understand basic things.
+Sometimes it will be very frustrating. Fall in love with the process, not the end result.&lt;/p&gt;
+&lt;p&gt;You have to be technical.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In basic terms, you need to understand how the internet works.&lt;/li&gt;
+&lt;li&gt;you will need to understand basic routing.&lt;/li&gt;
+&lt;li&gt;You will need to understand how user authentication works.&lt;/li&gt;
+&lt;li&gt;You will need to understand how programs and computers work.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And even then, there is no guarantee you will get into Security. But you will have a good chance at getting into IT at the least. So that is a start.
+Getting online Certificates increases your chances of getting into IT. CCNA is one example that will help you understand networks.&lt;/p&gt;
+&lt;p&gt;I remember when we had dinner in Canberra i said to you &amp;ldquo;You should learn Linux&amp;rdquo; to which you replied &amp;ldquo;Yeah, everyone has told me to use Linux&amp;rdquo;. But it seems like you don&amp;rsquo;t
+know how to start. I think for your first Linux Distro, you should use Ubuntu: &lt;a href=&#34;https://ubuntu.com/download/desktop&#34;&gt;https://ubuntu.com/download/desktop&lt;/a&gt;. It is also easy to install into a machine.
+Any YouTube tutorial will do.&lt;/p&gt;
+&lt;p&gt;You could go for Kali Linux, but that is just like any other Linux with a bunch of OpSec tools.&lt;/p&gt;
+&lt;p&gt;I also hope you enjoy the book i got you (Permanent Record by Edward Snowden). I know i will be purchasing another copy for myself to read through.&lt;/p&gt;
+&lt;p&gt;Free Resources you can find on YouTube:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The Hated one: &lt;a href=&#34;https://www.youtube.com/@TheHatedOne&#34;&gt;https://www.youtube.com/@TheHatedOne&lt;/a&gt; This one is a personal favourite of mine. He is not that technical at all and focuses on Privacy.&lt;/li&gt;
+&lt;li&gt;LiveOverflow: &lt;a href=&#34;https://www.youtube.com/@LiveOverflow&#34;&gt;https://www.youtube.com/@LiveOverflow&lt;/a&gt; This channel is a bit technical but it is also very fun.&lt;/li&gt;
+&lt;li&gt;John Hammond: &lt;a href=&#34;https://www.youtube.com/@_JohnHammond&#34;&gt;https://www.youtube.com/@_JohnHammond&lt;/a&gt; He is very technical and the videos are very long, but he will show you every step.&lt;/li&gt;
+&lt;li&gt;Null Byte: &lt;a href=&#34;https://www.youtube.com/@NullByteWHT&#34;&gt;https://www.youtube.com/@NullByteWHT&lt;/a&gt; Another technical channel but focuses more on tutorial videos.&lt;/li&gt;
+&lt;li&gt;PwnFunction: &lt;a href=&#34;https://www.youtube.com/@PwnFunction&#34;&gt;https://www.youtube.com/@PwnFunction&lt;/a&gt; Is also tutorial based and focuses on Web security&lt;/li&gt;
+&lt;li&gt;NetworkChuck: &lt;a href=&#34;https://www.youtube.com/@NetworkChuck&#34;&gt;https://www.youtube.com/@NetworkChuck&lt;/a&gt; Not really a 100% hacking/security channel but he does have a few videos on the topic. This channel focuses on Networks.&lt;/li&gt;
+&lt;li&gt;DEFCONConference: &lt;a href=&#34;https://www.youtube.com/@DEFCONConference&#34;&gt;https://www.youtube.com/@DEFCONConference&lt;/a&gt; A Conference on a bunch of hacking talks. They are very enjoyable to watch.&lt;/li&gt;
+&lt;li&gt;Mental Outlaw: &lt;a href=&#34;https://www.youtube.com/@MentalOutlaw&#34;&gt;https://www.youtube.com/@MentalOutlaw&lt;/a&gt; This guy always covers Online trends in the world. He is also a Linux User.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;CTFs:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;OverTheWire: &lt;a href=&#34;https://overthewire.org/wargames/&#34;&gt;https://overthewire.org/wargames/&lt;/a&gt; Start with Bandit and work through the challenges. (All solutions are online and you will learn just by reading through the solutions).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you want a more complete list. I found a pretty good resource online: &lt;a href=&#34;https://github.com/vitalysim/Awesome-Hacking-Resources&#34;&gt;https://github.com/vitalysim/Awesome-Hacking-Resources&lt;/a&gt;&lt;/p&gt;
 </description>
 	</item>
 	
@@ -171,7 +225,8 @@ As proof, you can see my &lt;a href=&#34;https://alexpiotrowski.xyz/unsw_degree/
 &lt;p&gt;I am considering continuing my studies at AIE and specialise in Game Programming.
 For the longest time, i could always envision myself working as a game programmer.
 Right now i do this as a hobby - Self enrolled courses.&lt;/p&gt;
-&lt;p&gt;test: &lt;a href=&#34;https://alexpiotrowski.xyz/animations/titanfall_walk_cycle.mp4&#34;&gt;test&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;I am currently running on Manjaro Distro but i am considering switching to debian: &lt;a href=&#34;https://manjarno.snorlax.sh/&#34;&gt;https://manjarno.snorlax.sh/&lt;/a&gt;
