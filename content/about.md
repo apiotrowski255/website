@@ -103,17 +103,26 @@ My Mum tells me how worried she was when i was young and not talking. She took m
 I think they went on to find nothing. No explanation. I think there were fears that i was Autistic or had a Disability. I am glad to announce that i turned out fine. I am very happy for myself and my family. 
 
 
-I wonder if i should do a "character stats" page for myself? 
+I wonder if i should do a "character stats" page for myself? Something similar to Cyberpunk character stats? Or Elden Ring?  
 - Body (Strength)
+My weight: 100KG
+My Height: 180cm ?
+Max DeadLift: 80KG
+Max brench press: 60KG
 
+
+Yoga: Postures i can do: 
+Touch toes? (Hopefully one day but not right now (22nd of Dec))
 
 
 - Reflexes
-
+BBJ? Karate, Muay Thai. 
+Floro knife defense. 
 
 
 - Technical Ability (Which in today's world is the same as Intelligence?)
-
+CCNA
+RHSCA (Not today, but aiming for it.)
 
 
 h1[Cool]

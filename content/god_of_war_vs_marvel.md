@@ -13,7 +13,7 @@ The two stunts below are timestamped
 
 Captain America doing the stunt in winter soldier: https://youtu.be/QF38tMQ7HaE?t=152
 
-Kratos doing the stunt in god of war (2018): https://youtu.be/ea7eWFbncU0?t=288
+Kratos doing the stunt in god of war (2018): https://youtu.be/ea7eWFbncU0?t=321s
 
 I think the clear winner is god of war. And i am not saying that "oh Kratos fall height is greater than Captain America's and therefore it is better."
 
