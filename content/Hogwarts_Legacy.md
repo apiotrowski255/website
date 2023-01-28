@@ -1,7 +1,7 @@
 ---
 title: "Hogwarts Legacy"
 date: 2022-12-29T20:25:38+11:00
-draft: true
+draft: false 
 ---
 I've been thinking about this game for a while.
 This is the type of game that Rebecca would have loved, if she was a gamer. 
