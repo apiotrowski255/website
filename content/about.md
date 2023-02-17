@@ -4,14 +4,16 @@ date: 2022-10-16T14:33:29+11:00
 tags: ['personal']
 ---
 
-Hi my name is Alex and i currently work at [vault cloud](https://vaultcloud.com.au/) as a cloud Admin (Customer support)
+Hi my name is Alex and i currently work at [vault cloud](https://vaultcloud.com.au/) as a cloud Admin (Customer Technical support)
 
 I have graduated from UNSW Sydney with a degree in computer science. 
 As proof, you can see my [Testamur](/unsw_degree/testamur.pdf), [Transcript](/unsw_degree/transcript.pdf) and [AHEGS](/unsw_degree/AHEGS.pdf).
 
 I am considering continuing my studies at AIE and specialise in Game Programming.
 For the longest time, i could always envision myself working as a game programmer.
-Right now i do this as a hobby - Self enrolled courses.
+Right now i do this as a hobby - Self enrolled courses. I mostly use Godot. 
+
+I also like animations
 
 <!---
 test: [test](/animations/titanfall_walk_cycle.mp4)
@@ -19,9 +21,8 @@ test: [test](/animations/titanfall_walk_cycle.mp4)
 <!--- {{< youtube 1D4YHBu9ASo>}}
 -->
 
-I am currently running on Manjaro Distro but i am considering switching to debian: https://manjarno.snorlax.sh/
-Sure debian might be slower with the updates but it is stable as hell.
-The other two options for me would be Arch or Artix (Basically Arch without systemd).
+After reading https://manjarno.snorlax.sh/ i have switched from Manjaro to Endeavour OS. The main thing Manjaro had going for me was the GUI package manager. And then i came across an issue with OpenSSL, causing me to not being about to update my packages. Therefore i switched to Endeavour.
+
 
 Things i want to learn (In no particular order):
 - Docker
@@ -86,6 +87,7 @@ Film i like:
 - The Lego Movie
 - American Psycho : This film has so many community edits and remixes. 
 - Blade runner 2049
+- Puss in boots 2
 
 Music i like:
 - Anything Touhou. Zun is a great composer 
@@ -106,7 +108,7 @@ I think they went on to find nothing. No explanation. I think there were fears t
 I wonder if i should do a "character stats" page for myself? Something similar to Cyberpunk character stats? Or Elden Ring?  
 - Body (Strength)
 My weight: 100KG
-My Height: 180cm ?
+My Height: 185cm 
 Max DeadLift: 80KG
 Max brench press: 60KG
 
@@ -127,5 +129,6 @@ RHSCA (Not today, but aiming for it.)
 
 h1[Cool]
 - Current Youtube following: 10K
+- Github followers: 10
 - https://socialblade.com/youtube/c/alexpiotrowski/realtime
 - (Not that it really matters to be honest)

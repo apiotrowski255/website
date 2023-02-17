@@ -7,8 +7,7 @@
 	<link rel='stylesheet' type='text/css' href='/style.css'>
 	<link rel="icon" href="/favicon.ico">
 	<meta name="description" content="Games i have made
-Spongeswap
-I am really proud of this one because this is a game that i created without following a tutorial or youtube series. I did this on my own and using free online resources to do so.
+Spongeswap I am really proud of this one because this is a game that i created without following a tutorial or youtube series. I did this on my own and using free online resources to do so.
 Used OpenGL and OpenAL This game was also finished when i left Macquarie cloud services This game was the birth of the following two tutorials: ThinMatrix and Cross Coast Gaming Github link: https://github.">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="robots" content="index, follow">
@@ -20,7 +19,7 @@ Used OpenGL and OpenAL This game was also finished when i left Macquarie cloud s
 <article>
 
 <p>Games i have made</p>
-<p>Spongeswap</p>
+<h2 id="spongeswap">Spongeswap</h2>
 <p>I am really proud of this one because this is a game that i created without following a tutorial or youtube series. I did this on my own and using free online resources to do so.</p>
 <ul>
 <li>Used OpenGL and OpenAL</li>
@@ -29,13 +28,62 @@ Used OpenGL and OpenAL This game was also finished when i left Macquarie cloud s
 <li>Github link: <a href="https://github.com/apiotrowski255/SpongeSwap">https://github.com/apiotrowski255/SpongeSwap</a></li>
 <li>Youtube gameplay:https://www.youtube.com/watch?v=GOVHGc2zwcM</li>
 </ul>
+<h2 id="pong">Pong</h2>
+<p>Made in 2023. For this year i will aim to make one game a month. Starting from small simple games and progressively get larger</p>
+<p>This short game was made in godot 3.5</p>
+<p>Main takeaway from this project (What did i learn?)</p>
+<p>I learnt the difference between reflecting a vector2d and bouncing a vector2d.</p>
+<p>What could i do to improve?</p>
+<p>I feel like setting the x position of the player paddle every frame is not great. There should be a better way of clamping the paddle on the y axis. However if i did not do this, the ball would apply a force to the player paddle and then it would eventually move out of the screen.</p>
+<p>I think when exporting to HTML, i do not need an exit button on the main menu.</p>
+<ul>
+<li>Github link: <a href="https://github.com/apiotrowski255/godot-2d-pong">https://github.com/apiotrowski255/godot-2d-pong</a></li>
+<li>Itch.io link: <a href="https://awesomea.itch.io/pong">https://awesomea.itch.io/pong</a></li>
+</ul>
+<h2 id="breakout">Breakout</h2>
+<p>Or as i like to call it &ldquo;Brick breakers&rdquo;. I thought this project would be easy going in since Breakout is a variation of single player pong. However one challenge i came across is that the ball&rsquo;s code needs to be abstracted. This is because there can be multiple balls in a game scene.</p>
+<p>Issues:</p>
+<ul>
+<li>
+<p>It is possible for the ball to be bouncing between the left and right walls infinitely.</p>
+</li>
+<li>
+<p>When the is one remaining brick left. It is incredibly hard to hit the last bricks.</p>
+</li>
+<li>
+<p>Github link:</p>
+</li>
+<li>
+<p>Itch.io link:</p>
+</li>
+</ul>
+<h2 id="snake">Snake</h2>
+<p>After finishing breakout, i had a choice between two games to work on. Space invaders and Snake. I decided on Snake since it seemed to me to be the harder choice.</p>
+<p>The hardest part was getting the blocks to follow each other in a snake like fashion.</p>
+<p>Things to do in future?</p>
+<ul>
+<li>
+<p>Allow the snake to tile across the screen (Leave on the left side on the screen and reenter on the right side of the screen.) This i personally find challenging.</p>
+</li>
+<li>
+<p>Github link:</p>
+</li>
+<li>
+<p>Itch.io link:</p>
+</li>
+</ul>
 
+
+<div id="nextprev">
+<a href="/animations/"><div id="prevart">Previous:<br>Animations</div></a>
+<a href="/introduction-to-hacking/"><div id="nextart">Next:<br>Introduction to Hacking</div></a>
+</div>
 
 </article>
 </main>
 
 <footer>
-	<a href="https://alexpiotrowski.xyz/">https://alexpiotrowski.xyz/</a>
+	<a href="https://alexpiotrowski.xyz/">https://alexpiotrowski.xyz/</a><br><br><a href="/index.xml"><img src="/rss.svg" style="max-height:1.5em" alt="RSS Feed" title="Subscribe via RSS for updates."></a>
 </footer>
 
 </body>

@@ -10,6 +10,25 @@
 	
 	
 	<item>
+		<title>Hogwarts Legacy</title>
+		<link>https://alexpiotrowski.xyz/hogwarts_legacy/</link>
+		<pubDate>Thu, 29 Dec 2022 20:25:38 +1100</pubDate>
+		
+		<guid>https://alexpiotrowski.xyz/hogwarts_legacy/</guid>
+		<description>&lt;p&gt;I&amp;rsquo;ve been thinking about this game for a while.
+This is the type of game that Rebecca would have loved, if she was a gamer.&lt;/p&gt;
+&lt;p&gt;But i am skeptical, and i would like to call it. I don&amp;rsquo;t think this game will be a good game at release.&lt;/p&gt;
+&lt;p&gt;This studio does not have a track record of producing good games.&lt;/p&gt;
+&lt;p&gt;The combat does not look good to me - It is all ranged combat,
+It does not look like there is any strategy to the combat.
+It does not show any meaningful spacing, guard or timing.&lt;/p&gt;
+&lt;p&gt;I have heard people saying this will be on par with Witcher 3 - I disagree with this.&lt;/p&gt;
+&lt;p&gt;Will this be game of the year for 2023? I highly doubt it.&lt;/p&gt;
+&lt;p&gt;I feel a lot of people are expecting this to be an amazing game. It is banking on the Harry Potter nostalgia.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
 		<title>Fortigate_script</title>
 		<link>https://alexpiotrowski.xyz/fortigate_script/</link>
 		<pubDate>Wed, 14 Dec 2022 15:10:51 +1100</pubDate>
@@ -96,7 +115,7 @@ Any YouTube tutorial will do.&lt;/p&gt;
 		
 		<guid>https://alexpiotrowski.xyz/games/</guid>
 		<description>&lt;p&gt;Games i have made&lt;/p&gt;
-&lt;p&gt;Spongeswap&lt;/p&gt;
+&lt;h2 id=&#34;spongeswap&#34;&gt;Spongeswap&lt;/h2&gt;
 &lt;p&gt;I am really proud of this one because this is a game that i created without following a tutorial or youtube series. I did this on my own and using free online resources to do so.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Used OpenGL and OpenAL&lt;/li&gt;
@@ -104,6 +123,50 @@ Any YouTube tutorial will do.&lt;/p&gt;
 &lt;li&gt;This game was the birth of the following two tutorials: ThinMatrix and Cross Coast Gaming&lt;/li&gt;
 &lt;li&gt;Github link: &lt;a href=&#34;https://github.com/apiotrowski255/SpongeSwap&#34;&gt;https://github.com/apiotrowski255/SpongeSwap&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Youtube gameplay:https://www.youtube.com/watch?v=GOVHGc2zwcM&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;pong&#34;&gt;Pong&lt;/h2&gt;
+&lt;p&gt;Made in 2023. For this year i will aim to make one game a month. Starting from small simple games and progressively get larger&lt;/p&gt;
+&lt;p&gt;This short game was made in godot 3.5&lt;/p&gt;
+&lt;p&gt;Main takeaway from this project (What did i learn?)&lt;/p&gt;
+&lt;p&gt;I learnt the difference between reflecting a vector2d and bouncing a vector2d.&lt;/p&gt;
+&lt;p&gt;What could i do to improve?&lt;/p&gt;
+&lt;p&gt;I feel like setting the x position of the player paddle every frame is not great. There should be a better way of clamping the paddle on the y axis. However if i did not do this, the ball would apply a force to the player paddle and then it would eventually move out of the screen.&lt;/p&gt;
+&lt;p&gt;I think when exporting to HTML, i do not need an exit button on the main menu.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Github link: &lt;a href=&#34;https://github.com/apiotrowski255/godot-2d-pong&#34;&gt;https://github.com/apiotrowski255/godot-2d-pong&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Itch.io link: &lt;a href=&#34;https://awesomea.itch.io/pong&#34;&gt;https://awesomea.itch.io/pong&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;breakout&#34;&gt;Breakout&lt;/h2&gt;
+&lt;p&gt;Or as i like to call it &amp;ldquo;Brick breakers&amp;rdquo;. I thought this project would be easy going in since Breakout is a variation of single player pong. However one challenge i came across is that the ball&amp;rsquo;s code needs to be abstracted. This is because there can be multiple balls in a game scene.&lt;/p&gt;
+&lt;p&gt;Issues:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;It is possible for the ball to be bouncing between the left and right walls infinitely.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;When the is one remaining brick left. It is incredibly hard to hit the last bricks.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Github link:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Itch.io link:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;snake&#34;&gt;Snake&lt;/h2&gt;
+&lt;p&gt;After finishing breakout, i had a choice between two games to work on. Space invaders and Snake. I decided on Snake since it seemed to me to be the harder choice.&lt;/p&gt;
+&lt;p&gt;The hardest part was getting the blocks to follow each other in a snake like fashion.&lt;/p&gt;
+&lt;p&gt;Things to do in future?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Allow the snake to tile across the screen (Leave on the left side on the screen and reenter on the right side of the screen.) This i personally find challenging.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Github link:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Itch.io link:&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 	</item>
@@ -219,19 +282,18 @@ Furthermore, this was my first time coming across a free and open source book! I
 		<pubDate>Sun, 16 Oct 2022 14:33:29 +1100</pubDate>
 		
 		<guid>https://alexpiotrowski.xyz/about/</guid>
-		<description>&lt;p&gt;Hi my name is Alex and i currently work at &lt;a href=&#34;https://vaultcloud.com.au/&#34;&gt;vault cloud&lt;/a&gt; as a cloud Admin (Customer support)&lt;/p&gt;
+		<description>&lt;p&gt;Hi my name is Alex and i currently work at &lt;a href=&#34;https://vaultcloud.com.au/&#34;&gt;vault cloud&lt;/a&gt; as a cloud Admin (Customer Technical support)&lt;/p&gt;
 &lt;p&gt;I have graduated from UNSW Sydney with a degree in computer science.
 As proof, you can see my &lt;a href=&#34;https://alexpiotrowski.xyz/unsw_degree/testamur.pdf&#34;&gt;Testamur&lt;/a&gt;, &lt;a href=&#34;https://alexpiotrowski.xyz/unsw_degree/transcript.pdf&#34;&gt;Transcript&lt;/a&gt; and &lt;a href=&#34;https://alexpiotrowski.xyz/unsw_degree/AHEGS.pdf&#34;&gt;AHEGS&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I am considering continuing my studies at AIE and specialise in Game Programming.
 For the longest time, i could always envision myself working as a game programmer.
-Right now i do this as a hobby - Self enrolled courses.&lt;/p&gt;
+Right now i do this as a hobby - Self enrolled courses. I mostly use Godot.&lt;/p&gt;
+&lt;p&gt;I also like animations&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;I am currently running on Manjaro Distro but i am considering switching to debian: &lt;a href=&#34;https://manjarno.snorlax.sh/&#34;&gt;https://manjarno.snorlax.sh/&lt;/a&gt;
-Sure debian might be slower with the updates but it is stable as hell.
-The other two options for me would be Arch or Artix (Basically Arch without systemd).&lt;/p&gt;
+&lt;p&gt;After reading &lt;a href=&#34;https://manjarno.snorlax.sh/&#34;&gt;https://manjarno.snorlax.sh/&lt;/a&gt; i have switched from Manjaro to Endeavour OS. The main thing Manjaro had going for me was the GUI package manager. And then i came across an issue with OpenSSL, causing me to not being about to update my packages. Therefore i switched to Endeavour.&lt;/p&gt;
 &lt;p&gt;Things i want to learn (In no particular order):&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Docker&lt;/li&gt;
@@ -296,6 +358,7 @@ The other two options for me would be Arch or Artix (Basically Arch without syst
 &lt;li&gt;The Lego Movie&lt;/li&gt;
 &lt;li&gt;American Psycho : This film has so many community edits and remixes.&lt;/li&gt;
 &lt;li&gt;Blade runner 2049&lt;/li&gt;
+&lt;li&gt;Puss in boots 2&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Music i like:&lt;/p&gt;
 &lt;ul&gt;
@@ -315,7 +378,7 @@ I think they went on to find nothing. No explanation. I think there were fears t
 &lt;ul&gt;
 &lt;li&gt;Body (Strength)
 My weight: 100KG
-My Height: 180cm ?
+My Height: 185cm
 Max DeadLift: 80KG
 Max brench press: 60KG&lt;/li&gt;
 &lt;/ul&gt;
@@ -336,6 +399,7 @@ RHSCA (Not today, but aiming for it.)&lt;/p&gt;
 &lt;p&gt;h1[Cool]&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Current Youtube following: 10K&lt;/li&gt;
+&lt;li&gt;Github followers: 10&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://socialblade.com/youtube/c/alexpiotrowski/realtime&#34;&gt;https://socialblade.com/youtube/c/alexpiotrowski/realtime&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;(Not that it really matters to be honest)&lt;/li&gt;
 &lt;/ul&gt;
