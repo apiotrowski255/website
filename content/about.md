@@ -86,7 +86,9 @@ Games i like
 Film i like:
 - Avatar, the last airbender
 - Spider-Man: Into the Spider-Verse
+- Spider-Man: Across the Spider-Verse
 - The Lego Movie
+- The Batman
 - American Psycho : This film has so many community edits and remixes.
 - Blade runner 2049
 - Puss in boots 2
@@ -97,7 +99,7 @@ Music i like:
 - Touhou - The Positive and Negative [ZUN-like Remix] : https://www.youtube.com/watch?v=JqRu1TfncE4
 - I imagine this one to be a boss theme - something like a news anchor or pop star (Is this similar to metton from Undertale?)
 - C418 - Aria Math
-- I also like Phonk
+- I also like Phonk and synthwave
 - If i have used the music in an animation - I have to like it. When animating you constantly hear the same music again and again.
 
 
@@ -121,6 +123,7 @@ I wonder if i should do a "character stats" page for myself? Something similar t
 - 10km run in 59 minutes. - Achieved on 7th of May 2023 (Sydney 10)
 - 14km run in 1:22:56 (1 hour, 22 minutes and 56 seconds). - Achieved on 13th of August 2023 (City 2 surf)
 - 21km run in 2:21:41 (2 hours, 21 minutes and 41 seconds). - Achieved on 21st of May 2023 (Hoka half marathon)
+- 42km run in ????
 
 ## Body (other)
 - Blood type: B+
@@ -130,15 +133,16 @@ Yoga: Postures i can do:
 Touch toes? (Hopefully one day but not right now (22nd of Dec))
 
 
-- Reflexes
-BBJ? Karate, Muay Thai.
-Floro knife defense.
+## Reflexes
+- White belt one stripe in BJJ
+- I train Karate once a week
+- I have done Muay thai before but since leaving UNSW i have not trained regularly. 
+- i have also 'touched upon' Floro knife defense and boxing.
 
-
-- Technical Ability (Which in today's world is the same as Intelligence?)
+## Technical Ability (Which in today's world is the same as Intelligence?)
 CCNA
+AWS cloud pracitioner
 RHSCA (Not today, but aiming for it.)
-
 
 ## Cool
 - Current Youtube following: 10K

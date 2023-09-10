@@ -8,6 +8,8 @@ I do my best to follow this schedule. Although i usually miss 6am morning classe
 
 Other than this, i work my usual job that is 9am to 5pm. Sometimes i am oncall for work. And when i am oncall, ideally i should not leave the house in case i get called for work outside business hours. 
 
+Other times i have to skip my schedule due to birthdays, other events etc. The general rule of thumb is if the event is of lesser quantity than the schedule, then go to the event. For example, birthdays are once a year but karate training is every week. 
+
 ## Monday
  - boxfit 5:15pm - 6:15pm
  - BJJ at showground: 6:45pm - 8:30pm
