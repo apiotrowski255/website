@@ -19,3 +19,5 @@ I have heard people saying this will be on par with Witcher 3 - I disagree with 
 Will this be game of the year for 2023? I highly doubt it.
 
 I feel a lot of people are expecting this to be an amazing game. It is banking on the Harry Potter nostalgia. 
+
+

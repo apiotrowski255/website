@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://alexpiotrowski.xyz/</loc>
+    <lastmod>2024-02-07T21:32:23+11:00</lastmod>
+  </url><url>
+    <loc>https://alexpiotrowski.xyz/my_game_of_the_year_2023/</loc>
+    <lastmod>2023-12-01T13:56:11+11:00</lastmod>
+  </url><url>
+    <loc>https://alexpiotrowski.xyz/i_love_sekiro/</loc>
+    <lastmod>2023-11-28T14:14:23+11:00</lastmod>
+  </url><url>
     <loc>https://alexpiotrowski.xyz/my_schedule/</loc>
     <lastmod>2023-09-05T09:58:30+10:00</lastmod>
   </url><url>
@@ -27,9 +36,6 @@
     <lastmod>2022-10-17T23:17:48+11:00</lastmod>
   </url><url>
     <loc>https://alexpiotrowski.xyz/about/</loc>
-    <lastmod>2022-10-16T14:33:29+11:00</lastmod>
-  </url><url>
-    <loc>https://alexpiotrowski.xyz/</loc>
     <lastmod>2022-10-16T14:33:29+11:00</lastmod>
   </url><url>
     <loc>https://alexpiotrowski.xyz/tags/personal/</loc>

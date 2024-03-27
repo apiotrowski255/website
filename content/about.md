@@ -15,7 +15,7 @@ Right now i do this as a hobby - Self enrolled courses. I mostly use Godot.
 
 The other option would be to go to Macquarie University for a degree in game development: https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-game-design-and-development
 
-I also like animations. I used to work a lot with Adobe animation/flash but ever since they started charging for that as a service, i have been more inclined to 
+I also like animations. I used to work a lot with Adobe animation/flash but ever since they started charging for that as a service, i have been more inclined to
 use blender.
 
 <!---
@@ -24,7 +24,7 @@ test: [test](/animations/titanfall_walk_cycle.mp4)
 <!--- {{< youtube 1D4YHBu9ASo>}}
 -->
 
-After reading https://manjarno.snorlax.sh/ i have switched from Manjaro to Endeavour OS. The main thing Manjaro had going for me was the GUI package manager. And then i came across an issue with OpenSSL, causing me to not being about to update my packages. Therefore i switched to Endeavour. In Future i think i will make the switch to Arch or Artix. 
+After reading https://manjarno.snorlax.sh/ i have switched from Manjaro to Endeavour OS. The main thing Manjaro had going for me was the GUI package manager. And then i came across an issue with OpenSSL, causing me to not being about to update my packages. Therefore i switched to Endeavour. In Future i think i will make the switch to Arch or Artix.
 
 Things i want to learn (In no particular order):
 - Docker
@@ -84,7 +84,6 @@ Games i like
 - Armored core 6 - PC (Steam) - Paid
 
 Film i like:
-- Avatar, the last airbender
 - Spider-Man: Into the Spider-Verse
 - Spider-Man: Across the Spider-Verse
 - The Lego Movie
@@ -92,7 +91,13 @@ Film i like:
 - American Psycho : This film has so many community edits and remixes.
 - Blade runner 2049
 - Puss in boots 2
+- Shrek 2
 - Fight club
+
+TV shows i like:
+- Breaking Bad
+- Better call Saul
+- Avatar, the last airbender
 
 Music i like:
 - Anything Touhou. Zun is a great composer
@@ -112,6 +117,20 @@ I think they went on to find nothing. No explanation. I think there were fears t
 
 I wonder if i should do a "character stats" page for myself? Something similar to Cyberpunk character stats? Or Elden Ring?
 
+## Current PC build
+ - CPU: RYZEN 9 5900X 
+ - CPU Cooler: 
+ - Motherboard: MSI B550 GAMING GEN3
+ - Memory: DDR4-3200 64GB
+ - Storage: M.2 2TB SSD
+ - Video Card: Gigabyte GV-R79XTXGAMING-OC-24GD RX 7900 XTX GAMING OC 24GB
+ - Case: 
+ - Power Supply:
+ - Operating System: EndeavourOS
+ - Monitor:
+ - Total Cost: 3500 AUD
+PC was built from ccpu.com.au 
+
 ## Body (Strength)
 - My weight: 102KG, (Now it is 97KG, Measured on 7th of August 2023)
 - My Height: 185cm
@@ -123,7 +142,7 @@ I wonder if i should do a "character stats" page for myself? Something similar t
 - 10km run in 59 minutes. - Achieved on 7th of May 2023 (Sydney 10)
 - 14km run in 1:22:56 (1 hour, 22 minutes and 56 seconds). - Achieved on 13th of August 2023 (City 2 surf)
 - 21km run in 2:21:41 (2 hours, 21 minutes and 41 seconds). - Achieved on 21st of May 2023 (Hoka half marathon)
-- 42km run in ????
+- 42km run in 6:02:24 (6 hours, 2 minutes and 24 seconds). - Achieved on 17th of September 2023 (Sydney marathon)
 
 ## Body (other)
 - Blood type: B+
@@ -136,7 +155,7 @@ Touch toes? (Hopefully one day but not right now (22nd of Dec))
 ## Reflexes
 - White belt one stripe in BJJ
 - I train Karate once a week
-- I have done Muay thai before but since leaving UNSW i have not trained regularly. 
+- I have done Muay thai before but since leaving UNSW i have not trained regularly.
 - i have also 'touched upon' Floro knife defense and boxing.
 
 ## Technical Ability (Which in today's world is the same as Intelligence?)
@@ -149,3 +168,9 @@ RHSCA (Not today, but aiming for it.)
 - Github followers: 10
 - https://socialblade.com/youtube/c/alexpiotrowski/realtime
 - (Not that it really matters to be honest)
+
+## News that I follow
+I tend to move away from legacy media and instead go for individuals stuff like
+- Joe Rogan
+- The Hated One
+- Russell Brand
