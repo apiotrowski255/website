@@ -27,7 +27,11 @@ There might be an argument of making the hardest boss female in a game but I bel
 And this does not only apply to games:
 - Sarah from Terminator 1 & 2
 - Mulan from Mulan
-- 
+- Kim from better call saul
+
+Tangent about better call saul
+- https://www.youtube.com/watch?v=AZ1FrM5__fE
+- https://www.youtube.com/watch?v=6ptZL3DF_Gg
 
 You can even see when Eddie (World's strongest man) deadlifted 500KGs, Right afterwards he thanked his wife. 
 His Eye colour literally changed with that Lift. 

@@ -10,6 +10,35 @@ Other than this, I work my usual job that is 9am to 5pm. Sometimes I am oncall f
 
 Other times I have to skip my schedule due to birthdays, other events etc. The general rule of thumb is if the event is of lesser quantity than the schedule, then go to the event. For example, birthdays are once a year but karate training is every week. 
 
+
+## Monday
+ - Legends BJJ 6:30pm - 8:30pm
+
+## Tuesday
+ - CDL BJJ 6:15pm - 8:15pm
+
+## Wednesday
+ - Legends BJJ 6:30pm - 8:30pm
+
+## Thursday
+ - Running alone, around parks
+
+## Friday
+ - UCA BJJ - 6:15pm - 815pm
+
+## Saturday
+ - CDL BJJ - Morning
+
+## Sunday
+ - BJJ with Kris - Mornings (times are variable)
+
+
+
+
+
+
+# OLD Schedule for when I was living with my parents
+
 ## Monday
  - Boxfit Express: 5:15pm - 6:15pm
  - BJJ at showground: 6:45pm - 8:30pm

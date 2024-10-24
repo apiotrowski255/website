@@ -4,16 +4,22 @@ date: 2022-10-16T14:33:29+11:00
 tags: ['personal']
 ---
 
-Hi my name is Alex and i currently work at [vault cloud](https://vaultcloud.com.au/) as a cloud Admin (Customer Technical support)
+<!---
+Hi my name is Alex and I currently work at Red Hat as a Techincal Support Engineer - Openstack (TSE - Customer Technical support). I really like my Job.
+-->
 
 I have graduated from UNSW Sydney with a degree in computer science.
 As proof, you can see my [Testamur](/unsw_degree/testamur.pdf), [Transcript](/unsw_degree/transcript.pdf) and [AHEGS](/unsw_degree/AHEGS.pdf).
 
+I do Game development and Animations as a hobby. I thought about getting some "actual" training on these two subjects but I think I will keep it as a hobby.
+
+<!---
 I am considering continuing my studies at AIE and specialise in Game Programming.
 For the longest time, i could always envision myself working as a game programmer.
 Right now i do this as a hobby - Self enrolled courses. I mostly use Godot.
 
 The other option would be to go to Macquarie University for a degree in game development: https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-game-design-and-development
+-->
 
 I also like animations. I used to work a lot with Adobe animation/flash but ever since they started charging for that as a service, i have been more inclined to
 use blender.
@@ -98,6 +104,7 @@ TV shows i like:
 - Breaking Bad
 - Better call Saul
 - Avatar, the last airbender
+- The Inbetweeners
 
 Music i like:
 - Anything Touhou. Zun is a great composer
@@ -118,18 +125,18 @@ I think they went on to find nothing. No explanation. I think there were fears t
 I wonder if i should do a "character stats" page for myself? Something similar to Cyberpunk character stats? Or Elden Ring?
 
 ## Current PC build
- - CPU: RYZEN 9 5900X 
- - CPU Cooler: 
+ - CPU: RYZEN 9 5900X
+ - CPU Cooler:
  - Motherboard: MSI B550 GAMING GEN3
  - Memory: DDR4-3200 64GB
  - Storage: M.2 2TB SSD
  - Video Card: Gigabyte GV-R79XTXGAMING-OC-24GD RX 7900 XTX GAMING OC 24GB
- - Case: 
+ - Case:
  - Power Supply:
  - Operating System: EndeavourOS
  - Monitor:
  - Total Cost: 3500 AUD
-PC was built from ccpu.com.au 
+PC was built from ccpu.com.au
 
 ## Body (Strength)
 - My weight: 102KG, (Now it is 97KG, Measured on 7th of August 2023)
@@ -141,12 +148,13 @@ PC was built from ccpu.com.au
 - Beep test: 8.2 - Tested on 17th of May 2023
 - 10km run in 59 minutes. - Achieved on 7th of May 2023 (Sydney 10)
 - 14km run in 1:22:56 (1 hour, 22 minutes and 56 seconds). - Achieved on 13th of August 2023 (City 2 surf)
-- 21km run in 2:21:41 (2 hours, 21 minutes and 41 seconds). - Achieved on 21st of May 2023 (Hoka half marathon)
+- 21km run in 2:21:41 (2 hours, 24 minutes and 41 seconds). - Achieved on 21st of May 2023 (Hoka half marathon)
 - 42km run in 6:02:24 (6 hours, 2 minutes and 24 seconds). - Achieved on 17th of September 2023 (Sydney marathon)
+- 21.1km run in 2:33:35 (2 hours, 33 minutes and 35 seconds). - Achieved on the 5th of May 2024 (Hoka half marathon)
 
 ## Body (other)
 - Blood type: B+
-- Eye sight: ?? (I wear glasses)
+- Eye sight: -1.25 in both eyes, I wear glasses
 
 Yoga: Postures i can do:
 Touch toes? (Hopefully one day but not right now (22nd of Dec))
@@ -171,6 +179,7 @@ RHSCA (Not today, but aiming for it.)
 
 ## News that I follow
 I tend to move away from legacy media and instead go for individuals stuff like
+- Channel 5 with Andrew Callaghan
 - Joe Rogan
 - The Hated One
 - Russell Brand
